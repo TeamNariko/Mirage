@@ -1,0 +1,16 @@
+{
+  "bind": "0.0.0.0:25565",
+  "proxy_protocol_v2": true,
+  "version_name": "&cMaintenance",
+  "motd": [
+    "&eServer unavailable",
+    "&7Please try again later."
+  ],
+  "hover_list": ["&cServer is under maintenance"],
+  "server_icon": null,
+  "disconnect": [
+    "&b&lDisconnected",
+    "",
+    "&7Server is under maintenance. Please try again later."
+  ]
+}
